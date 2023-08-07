@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+table{
+    margin: 50px auto;
+    border: 2px solid white ;
+    border-collapse: collapse;
+    width: 80%;
+    background: #382c6e;
+    font-family:Borel;
+    text-align: left;
+    text-size-adjust: auto;
+    
+    
+    
+
+    
+}
+
+    .pink {
+        background: #86006f;
+        padding: 15px;
+        color: white;
+        font-size: 20px;   
+    }
+    
+
+
+    .more{
+        background: #f37ecf;
+        padding: 15px;
+        color: white;
+        
+    }
+
+    td{
+        background:#af5593 ;
+        padding: 15px;
+        color: white;
+    }
